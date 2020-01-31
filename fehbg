@@ -1,0 +1,2 @@
+#!/bin/sh
+'feh' '--bg-scale' '/home/caleb/Pictures/Wallpaper/4k_Autumn.jpg' 
